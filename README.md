@@ -1,4 +1,4 @@
-some 10-15 records of date and temperature example:
+Put some 10-15 records of date and temperature example:
 dd-mm-yyyy,temperature
 Example:
 10-01-1990,10
